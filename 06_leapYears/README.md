@@ -14,3 +14,10 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+
+=========================
+Lear year
+/ by 4 (1984)= yes
+/ by 100 (1900) = no
+/ 100 (1600) = yes
